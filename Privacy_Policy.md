@@ -1,4 +1,4 @@
-# Privacy Policy for [Sakura - Plane sims flight](macappstore://itunes.apple.com/app/)
+# Privacy Policy for [Freecell](macappstore://itunes.apple.com/app/)
 
 
 ## All the data we collect is anonymous.
