@@ -1,4 +1,4 @@
-# Privacy Policy for Freecell [link](macappstore://itunes.apple.com/app/id111)
+# Privacy Policy for Freecell
 
 
 ## All the data we collect is anonymous.
