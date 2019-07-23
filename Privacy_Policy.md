@@ -1,4 +1,4 @@
-# Privacy Policy for Freecell
+# Privacy Policy for Poker+  Solitaire: FreeCell
 
 
 ## All the data we collect is anonymous.
